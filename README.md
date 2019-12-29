@@ -1,6 +1,3 @@
-# course-project-saurabhdevulapally
-course-project-saurabhdevulapally created by GitHub Classroom
-
 Part 1: Omniglot dataset
 
 Run matchingnetwork.py to execute code and see results of 5-way 1-shot learning on Omniglot dataset.
@@ -24,7 +21,7 @@ facenet_keras.h5 - pre-trained FaceNet model.
 
 *********************************************************************************************************
 
-Acknowledgement
+Acknowledgements
 
 Matching Networks code available at https://github.com/cnichkawde/MatchingNetwork
 FaceNet pre-trained model available at https://github.com/nyoki-mtl/keras-facenet
